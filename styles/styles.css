@@ -79,6 +79,7 @@ button {
     display: none;
     justify-content: center;
     align-items: center;
+    overflow-x: hidden;
 }
 
 .burger:before {
